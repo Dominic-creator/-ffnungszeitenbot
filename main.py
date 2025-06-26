@@ -51,4 +51,4 @@ async def on_ready():
         await kanal.send("🕒 Öffnungsstatus steuern:", view=ÖffnungsView())
 
 keep_alive()
-bot.run(TOKEN)
+bot.run(MTM4Nzg3NDk5MDUzOTU0MjY3OQ.GP-NiJ.YG8TQHLQFhidYsXk--NGSUAGTJA-C6VH8zAM2Q)
